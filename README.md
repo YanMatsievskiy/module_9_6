@@ -20,7 +20,7 @@ a = all_variants("abc")
 
 for i in a:
 
-     print(i)
+print(i)
 
 Вывод на консоль:
 
